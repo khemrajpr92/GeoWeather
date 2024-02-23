@@ -19,4 +19,6 @@ It gives you the weather details of present day along with future forecast of se
 - note :- not suitable for small screen
 
 - Search by geolocation
+
+- ![Screenshot (487)](https://github.com/khemrajpr92/Geoweather1/assets/123429589/b3e3f0ba-69d4-400b-a86e-d346c457c205)
   
